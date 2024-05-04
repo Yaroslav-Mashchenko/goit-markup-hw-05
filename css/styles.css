@@ -694,7 +694,6 @@ ol {
   height: 24px;
   border-radius: 50%;
   padding: 0;
-  border: 1px solid rgba(0, 0, 0, 0.1);
   cursor: pointer;
   border: 1px solid rgba(0, 0, 0, 0.1);
   border-color: #E7E9FC;
@@ -732,7 +731,7 @@ ol {
 }
 
 .review-form-field-wrapper {
-  margin-bottom: 16px;
+  margin-bottom: 8px;
 }
 
 .review-form-field-label {
