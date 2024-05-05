@@ -736,6 +736,10 @@ ol {
   margin-bottom: 16px;
 }
 
+.review-form-field-wrapper-form {
+  margin-bottom: 16px;
+}
+
 .review-form-field-label {
   display: block;
   font-weight: 400;
